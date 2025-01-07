@@ -1,4 +1,4 @@
-!#[Alt text](/git-ref-ach.png)
+![Alt text](/git-ref-ach.png)
 
 
 # Hosting an HTML Website on Amazon EC2
