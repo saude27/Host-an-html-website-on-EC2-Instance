@@ -1,3 +1,6 @@
+!#[Alt text](/git-ref-ach.png)
+
+
 # Hosting an HTML Website on Amazon EC2
 
 This project demonstrates the deployment of an HTML website on Amazon EC2, utilizing AWS services to deliver high availability, scalability, and fault tolerance.
